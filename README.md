@@ -38,4 +38,7 @@ Please make sure to update tests as appropriate.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## README Template from https://www.makeareadme.com
+## Credits
+README Template from https://www.makeareadme.com
+HTML, CSS, JS code template from Coursera IBM Full Stack Software Developer course
+
